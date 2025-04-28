@@ -1,4 +1,4 @@
-<a href="https://scrimba.com/s06j6l3/s00ad609ir/head">Day 1 Grandpa's Gift List - Solution</a>
+<a href="https://scrimba.com/s06j6l3/s00ad609ir/head">Day 1 - Grandpa's Gift List_Solution</a>
 
 <br>
 
