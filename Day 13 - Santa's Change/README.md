@@ -1,6 +1,8 @@
 <h2>Challenge</h2>
-<p>Santa needs your help to figure out if he has enough money to give everyone change!<br>
-Your goal will be to return true if everyone gets their correct change, and false if at least one person does not receive their correct change! Use the function below to get started!</p>
+<ul>
+  <li>Santa needs your help to figure out if he has enough money to give everyone change!
+  <li>Your goal will be to return true if everyone gets their correct change, and false if at least one person does not receive their correct change! Use the function below to get started!
+</ul>
 
 <br>
 
