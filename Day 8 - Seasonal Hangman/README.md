@@ -6,14 +6,14 @@
     <li>The player selects a letter.</li>
     <li>If that letter is in the word, that letter replaces the dash in the corresponding position. For the word "TREE", if the player has selected the letter E, they will see --EE.</li>
 <li>If the selected letter does not appear in the word, one part of the snowman gets removed.</li></ul>
-<ul><li> If the player guesses the entire word, they win! </li></ul>
-    <ul><li>any removed parts of the snowman are reinstated.</li>
-    <li>the snowman gets sunglasses</li>
-    <li>the message "You Win!" is displayed in the "guess-container" div.</li></ul>
+<ul><li>If the player guesses the entire word, they win! </li></ul>
+    <ol><li> Any removed parts of the snowman are reinstated.</li>
+    <li>The snowman gets sunglasses</li>
+    <li>The message "You Win!" is displayed in the "guess-container" div.</li></ol>
 <ul><li>If the player guesses wrong 6 times: </li>
-    <li>only a puddle remains.</li>
-    <li>the message "You Lose!" is displayed in the "guess-container" div.</li>
-</p></ul>
+    <ol><li>only a puddle remains.</li>
+    <li> The message "You Lose!" is displayed in the "guess-container" div.</li></ol>
+</p>
 
 <p>*** Stretch Goals *** 
 <ul>
