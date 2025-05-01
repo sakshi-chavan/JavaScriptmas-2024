@@ -12,11 +12,11 @@
   <ol>
     <li>Log the items to the console in a more formatted way, 
         like this (one item per line):
-          💕: $0 ;
-          🍬: $0.49 ;
-          🍫: $0.99 ;
-          🍭: $1.99 ;
-          🧁: $2.99 
+          💕: $0 <br>
+          🍬: $0.49 <br>
+          🍫: $0.99 <br>
+          🍭: $1.99 <br>
+          🧁: $2.99 <br>
           ...etc.</li>
     <li>Create a UI for this by displaying the unsorted items first, then having a button that will sort the items on the page by price.</li>
   </ol>
