@@ -1,3 +1,5 @@
+import shoppingCartData from "./data.js";
+
 // By using forEach() method
 
 function calculateCost(arr) {
