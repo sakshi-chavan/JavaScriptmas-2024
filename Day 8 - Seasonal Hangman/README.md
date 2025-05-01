@@ -21,8 +21,8 @@
 
 <p>*** Stretch Goals *** 
 <ul>
-    <li>Disable the letter button once a letter has been used.
-    <li>Add a "New Game" button that appears at the end of a game and resets the app. (You will need to create an array of words to guess)
+    <li>Disable the letter button once a letter has been used.</li>    
+    <li>Add a "New Game" button that appears at the end of a game and resets the app. (You will need to create an array of words to guess)</li>
 </ul>
 </p>
 
