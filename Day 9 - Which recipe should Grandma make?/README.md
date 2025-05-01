@@ -1,5 +1,5 @@
 <h3>Challenge</h3>
-
+<p>
 Your challenge is to write a function that selects a recipe that aligns with Alice's preferences.
 
 The guest, Alice has specific food preferences:
@@ -12,6 +12,7 @@ The guest, Alice has specific food preferences:
     <li>Contains at least one ingredient Alice likes</li>
     <li>Contains zero ingredients that Alice dislikes</li>
   </ol>
+</p>
 </p>
 <br>
 <h2>Solution</h2>
