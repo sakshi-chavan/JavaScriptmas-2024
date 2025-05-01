@@ -11,6 +11,6 @@ In the small print, it says “we believe in equal opportunities”. But there i
 <br>
 <h2>Solution</h2>
 
-<a href="https://scrimba.com/s06j6nj/s0vju2h7fu/head>Day 17 - Santa Needs You(A11y)</a>
+<a href="https://scrimba.com/s06j6nj/s0vju2h7fu/head">Day 17 - Santa Needs You(A11y)</a>
 
 ![Screenshot 2025-05-01 212122](https://github.com/user-attachments/assets/b1c7eb0c-2a2f-42d5-b774-3f2a176961e7)
