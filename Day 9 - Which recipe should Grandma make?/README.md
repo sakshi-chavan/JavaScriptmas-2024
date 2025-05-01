@@ -7,12 +7,12 @@ The guest, Alice has specific food preferences:
   <li>Loves: avocado, quinoa, kale</li>
   <li>Dislikes: pork, chicken, turkey, beef, dairy, butter, eggs, gluten, nuts, soy, flour</li>
 </ul>
-<p>Requirements for a suitable recipe:
-  <ol>
+  <p>Requirements for a suitable recipe:
+    <ol>
     <li>Contains at least one ingredient Alice likes</li>
     <li>Contains zero ingredients that Alice dislikes</li>
-  </ol>
-</p>
+    </ol>
+  </p>
 </p>
 <br>
 <h2>Solution</h2>
