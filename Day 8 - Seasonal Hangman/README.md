@@ -1,5 +1,5 @@
-<h3><b>Challenge</b></h3>
-<p>1. Your challenge is to build a Christmas take on the classic game "Hangman" where a player attempts to guess a word by selecting letters to save a snowman from melting.
+<h2><b>Challenge</b></h2>
+<p>Your challenge is to build a Christmas take on the classic game "Hangman" where a player attempts to guess a word by selecting letters to save a snowman from melting.
 - The snowman is made up of 6 parts: hat, arm, nose, scarf, head, and body. These are separate images and have been positioned with CSS.
 - At the start of the game, a player can see a number of dashes, with a dash for each letter of the word. So if the word was TREE the player would see - - - -
 - The player selects a letter. 
@@ -21,7 +21,7 @@
 
 <br>
 
-<h3><b>Solution</b></h3>
+<h2><b>Solution</b></h2>
 
 <a href="https://scrimba.com/s06j5ju/s0i2ogl4be/head">Day 8 - Seasonal Hangman</a>
 
