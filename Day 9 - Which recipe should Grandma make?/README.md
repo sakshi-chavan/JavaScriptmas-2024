@@ -1,5 +1,4 @@
 <h3><b>Challenge</b></h3>
-<hr>
 <p>Your challenge is to write a function that selects a recipe that aligns with Alice's preferences. The guest, Alice has specific food preferences:
 <ul>
   <li>Loves: avocado, quinoa, kale</li>
