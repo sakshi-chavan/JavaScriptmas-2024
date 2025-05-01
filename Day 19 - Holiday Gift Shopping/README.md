@@ -11,7 +11,7 @@
 <p>Stretch Goals:</p>
   <ol>
     <li>Log the items to the console in a more formatted way, 
-        like this (one item per line):
+        like this (one item per line):<br>
           💕: $0 <br>
           🍬: $0.49 <br>
           🍫: $0.99 <br>
