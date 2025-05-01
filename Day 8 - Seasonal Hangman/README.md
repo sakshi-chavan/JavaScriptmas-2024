@@ -4,7 +4,7 @@
         <li>The snowman is made up of 6 parts: hat, arms, nose, scarf, head, and body. These are separate images and have been positioned with CSS.</li>
         <li>At the start of the game, the player sees a number of dashes, with a dash for each letter of the word. If the word is TREE, the player sees: <strong>- - - -</strong></li>
         <li>The player selects a letter.</li>
-        <li>If the letter is in the word, it replaces the dash in the corresponding position. For the word "TREE", if the player selects the letter "E", they will see: <strong>--EE</strong></li>
+        <li>If the letter is in the word, it replaces the dash in the corresponding position. For the word "TREE", if the player selects the letter "E", they will see:--EE.</li>
         <li>If the letter does not appear in the word, one part of the snowman is removed.</li>
         <li>If the player guesses the entire word, they win!</li>
         <ul>
