@@ -9,15 +9,15 @@
 <ul>
 <li>If the player guesses the entire word, they win!</li></ul>
 <ul style="list-style-type:circle;">
-        <li>Any removed parts of the snowman are reinstated.</li>
-        <li>The snowman gets sunglasses.</li>
-        <li>The message "You Win!" is displayed in the "guess-container" div.</li>
+        <li>Any removed parts of the snowman are reinstated.
+        <li>The snowman gets sunglasses.
+        <li>The message "You Win!" is displayed in the "guess-container" div.
 </ul>
 <ul>
 <li>If the player guesses wrong 6 times: </li></ul>
 <ul style="list-style-type:circle;">
-    <li>Only a puddle remains.</li></pre>
-    <li>The message "You Lose!" is displayed in the "guess-container" div.</li></pre>
+    <li>Only a puddle remains.</li>
+    <li>The message "You Lose!" is displayed in the "guess-container" div.
 </ul>
 </p>
 
