@@ -1,0 +1,251 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.background {
+    display: flex;
+    width: 360px;
+    height: 225px;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    background: repeating-linear-gradient(
+    45deg,
+    #1f4c27,
+    #1f4c27 40px,
+    #4c4d51 40px,
+    #4c4d51 80px)
+}
+
+.santa {
+    width: 100px;
+    height: 152px;
+    transform: scale(1.1);
+    position: relative;
+}
+
+.hat {
+    position: relative;
+    left: 10px;
+    z-index: 4;
+}
+
+.hat-base {
+    position: absolute;
+    left: -10px;
+    top: 30px;
+    width: 100px;
+    height: 30px;
+    background-color: #d3d2d2;
+    border-radius: 10px;
+}
+
+.hat-top {
+    width: 80px;
+    height: 30px;
+    background-color: #ff2500;
+    border-radius: 30px 0 0 0;
+}
+
+.hat-side {
+    position: absolute;
+    top: 0;
+    left: 65px;
+    width: 33px;
+    height: 33px;
+    background-color: #8b0e00;
+    border-radius: 50%;
+    z-index: -1;
+}
+
+.hat-pompom {
+    position: absolute;
+    top: 15px;
+    left: 75px;
+    width: 45px;
+    height: 45px;
+    background-color: #fffefe;
+    border-radius: 50%;
+    z-index: -1;
+}
+
+.hair {
+    position: absolute;
+    left: 5px;
+    top: 40px;
+    width: 90px;
+    height: 30px;
+    z-index: 1;
+    background-color: #f4f5f4;
+    border-radius: 10px;
+}
+
+.face {
+    position: absolute;
+    left: 15px;
+    top: 40px;
+    width: 70px;
+    height: 90px;
+    background-color: #ffd8b2;
+    border-radius: 10px;
+    z-index: 3;
+}
+
+.left-ear,
+.right-ear {
+    position: absolute;
+    left: 8px;
+    top: 65px;
+    width: 18px;
+    height: 18px;
+    background-color: #ffa64d;
+    border-radius: 50%;
+    z-index: 0;
+}
+
+.right-ear {
+    left: 75px;
+}
+
+.left-eye,
+.right-eye {
+    position: absolute;
+    left: 16px;
+    top: 32px;
+    width: 12px;
+    height: 10px;
+    background-color: #2f4e4e;
+    border-radius: 50%;
+}
+
+.right-eye {
+    left: 43px;
+}
+
+.mustache-left,
+.mustache-right {
+    position: absolute;
+    left: 5px;
+    top: 89px;
+    width: 45px;
+    height: 19px;
+    background-color: #d3d2d2;
+    border-radius: 25px 0 25px 0;
+    z-index: 4;
+}
+
+.mustache-right {
+    left: 50px;
+    border-radius: 0 25px 0 25px;
+}
+
+.mouth {
+    position: absolute;
+    left: 20px;
+    top: 50px;
+    width: 30px;
+    height: 30px;
+    background-color: #010001;
+    border-radius: 50%;
+}
+
+.teeth {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 30px;
+    height: 10px;
+    background-color: #fffefe;
+}
+
+.tongue {
+    position: absolute;
+    left: 17px;
+    top: 21px;
+    width: 12px;
+    height: 9px;
+    background-color: #ff2500;
+    border-radius: 3px 0 10px 0;
+}
+
+.beard-1 {
+    position: absolute;
+    left: 10px;
+    top: 75px;
+    width: 80px;
+    height: 55px;
+    background-color: #e9e9e8;
+    border-radius: 10px;
+    z-index: 1;
+}
+
+.beard-2 {
+    position: absolute;
+    left: 39px;
+    top: 100px;
+    width: 22px;
+    height: 50px;
+    background-color: #d3d2d2;
+    border-radius: 15px;
+    z-index: 2;
+}
+
+.beard-3a,
+.beard-3b {
+    position: absolute;
+    left: 24px;
+    top: 90px;
+    width: 22px;
+    height: 50px;
+    background-color: #e1e0e1;
+    border-radius: 15px;
+    z-index: 1;
+}
+
+.beard-3b {
+    left: 55px;
+}
+
+.beard-4a,
+.beard-4b,
+.beard-4c,
+.beard-4d,
+.beard-4e {
+    position: absolute;
+    left: 14px;
+    top: 102px;
+    width: 20px;
+    height: 35px;
+    background-color: #fffefe;
+    border-radius: 16px;
+    z-index: 0;
+}
+
+.beard-4b {
+    left: 25px;
+    top: 113px;
+}
+
+.beard-4c {
+    left: 41px;
+    top: 120px;
+}
+
+.beard-4d {
+    left: 58px;
+    top: 112px;
+}
+
+.beard-4e {
+    left: 66px;
+    top: 102px;
+}
