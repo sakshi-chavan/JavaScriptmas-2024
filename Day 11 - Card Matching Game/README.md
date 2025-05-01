@@ -22,8 +22,13 @@
 
 <h2>Solution</h2>
 
+
 <a href="https://scrimba.com/s06j7gf/s04mm1utht/head">Day 11 - Card Matching Game</a>
 
 <br>
 
-![Screenshot 2025-05-01 164546](https://github.com/user-attachments/assets/72ff7e92-ef1e-4917-9694-97ab154a94e5)
+![Screenshot 2025-05-01 165028](https://github.com/user-attachments/assets/31fef759-34f4-4982-9ade-b682f7259a0c)
+
+![Screenshot 2025-05-01 165040](https://github.com/user-attachments/assets/008104ed-d7cb-43b6-9f35-c9bd4db28b7b)
+
+
