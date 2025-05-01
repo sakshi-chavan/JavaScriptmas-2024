@@ -1,4 +1,4 @@
-<h2><b>Challenge</b></h2>
+<h2>Challenge</h2>
 <p>
  <ul>
          <li>Your challenge is to build a Christmas take on the classic game "Hangman" where a player attempts to guess a word by selecting letters to save a snowman from melting.
