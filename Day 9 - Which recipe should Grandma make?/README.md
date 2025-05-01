@@ -11,9 +11,11 @@ The guest, Alice has specific food preferences:</p>
     <li>Contains zero ingredients that Alice dislikes</li>
   </ol>
 </p>
+
 <br>
 
 <h2>Solution</h2>
+
 <a href="https://scrimba.com/s06j687/s0svcu1dkl/head">Day 9 - Which recipe should Grandma make?</a>
 
 <br>
