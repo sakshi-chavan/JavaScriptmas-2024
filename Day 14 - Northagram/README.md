@@ -10,7 +10,7 @@
     <li> When all of the images have been displayed, the user should see a message "Refresh to load latest images". All avatars should have a white border at this point.</li>
   </ul>
 </p>
-<br>
+
 <p>Stretch Goals for dedicated Social Media Engineers:</p>
 <ul>
   <li>Add captions to the images.</li>
@@ -27,5 +27,5 @@
 <h2>Solution</h2>
 
 <a href="https://scrimba.com/s06j6d5/s00iond8qn/head">Day 14 - Northagram</a>
-<br>
+
 ![Screenshot 2025-05-01 203424](https://github.com/user-attachments/assets/36cdead1-9c27-4c7b-a517-63cc0c6d6f13)
