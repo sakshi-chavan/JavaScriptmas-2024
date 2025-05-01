@@ -1,0 +1,100 @@
+  :root {
+    --green: #216637; 
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 105vh;
+    margin: 0;
+    background-color: #d75976;
+}
+
+img {
+    width: 260px;
+    position: absolute;
+    top: 0;
+    left: -88px;
+}
+
+main {
+    background-color: var(--green);
+    text-align: center;
+    color: white;
+    position: relative;
+    width: 350px;
+    height: 470px;
+    overflow: hidden;
+    border: 3px solid white;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    text-align: right;
+    padding-top: .6em;
+    margin-top: 0;
+    margin-right: .25em;
+}
+
+h1 span {
+    font-size: 2.2rem;
+}
+
+hr {
+    margin-left: 11em;
+    width: 33%;
+    border: none;
+    height: 1px;
+    background-color: black;
+}
+
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: uppercase;
+    position: relative;
+    z-index: 1;
+    font-size: .9rem;
+    max-width: 180px;
+    margin-left: 10em;
+    line-height: 1.7rem;
+}
+
+.banner {
+    color: black;
+    background-color: white;
+    display: flex;
+    padding: 1.2em 0 2rem 0;
+    margin: 3.4em 0;
+    position: relative;
+    z-index: 1;
+    flex-direction: column;
+    gap: 1em;   
+    opacity: 0.7;
+}
+
+.author {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    font-size: 2.5rem;
+    font-weight: bold;   
+}
+
+.details {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: .8rem;
+    margin: 0;
+}
+
+.details span {
+    display: block;
+    margin-top: .2rem;
+    font-size: 1rem;
+    font-weight: bold;
+    font-style: italic;
+}
