@@ -1,4 +1,4 @@
-![Screenshot 2025-05-01 203424](https://github.com/user-attachments/assets/b59498cb-a689-446b-9cf5-8336aa702e29)<h2>Challenge</h2>
+<h2>Challenge</h2>
 <p>The cool people of Lapland are bored of traditional social media and have decided to build their own app called Northagram...and they need your help!</p>
 <p>
   This is how the app should work:
