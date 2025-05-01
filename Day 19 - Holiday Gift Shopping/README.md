@@ -8,7 +8,18 @@
   <li> Log the sorted array to the console to double-check you solved it correctly.</li>
 </ul>
 </p>
-
+<p>Stretch Goals:</p>
+  <ol>
+    <li>Log the items to the console in a more formatted way, 
+        like this (one item per line):
+          💕: $0
+          🍬: $0.49
+          🍫: $0.99
+          🍭: $1.99
+          🧁: $2.99
+          ...etc.</li>
+    <li>Create a UI for this by displaying the unsorted items first, then having a button that will sort the items on the page by price.</li>
+  </ol>
 <br>
 <h2>Solution</h2>
 
