@@ -12,8 +12,8 @@
         <li>The message "You Win!" is displayed in the "guess-container" div.</li>
 </ul>
 <ul><li>If the player guesses wrong 6 times: </li>
-    <li>Only a puddle remains.</li>
-    <li>The message "You Lose!" is displayed in the "guess-container" div.</li>
+    <pre>Only a puddle remains.</li></pre>
+    <pre>The message "You Lose!" is displayed in the "guess-container" div.</li></pre>
 </ul>
 </p>
 
