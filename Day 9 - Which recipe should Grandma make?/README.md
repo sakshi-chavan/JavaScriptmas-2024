@@ -1,7 +1,6 @@
 <h3>Challenge</h3>
-<br>
-<p>Your challenge is to write a function that selects a recipe that aligns with Alice's preferences.<br>
-The guest, Alice has specific food preferences:</p>
+Your challenge is to write a function that selects a recipe that aligns with Alice's preferences.<br>
+The guest, Alice has specific food preferences:
 <ul>
   <li>Loves: avocado, quinoa, kale</li>
   <li>Dislikes: pork, chicken, turkey, beef, dairy, butter, eggs, gluten, nuts, soy, flour</li>
