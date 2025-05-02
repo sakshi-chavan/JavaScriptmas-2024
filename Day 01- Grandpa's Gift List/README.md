@@ -18,6 +18,7 @@
   </ol>
 </p>
 <br>
+
 <p>Stretch Goals:
 <ol>
   <li>Case Sensitivity: Handle cases where capitalization differs. For example:
@@ -32,4 +33,4 @@
 
 <a href="https://scrimba.com/s06j6l3/s00ad609ir/head">Day 1 - Grandpa's Gift List</a>
 
-![Screenshot 2025-05-02 110111](https://github.com/user-attachments/assets/6ef3cedb-5c7b-4f3e-bc90-74456736cf0e)
+![Screenshot 2025-05-02 110616](https://github.com/user-attachments/assets/60f86a29-6c18-4707-a359-40235983abe4)
