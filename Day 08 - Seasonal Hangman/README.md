@@ -30,6 +30,6 @@
 <br>
 <h2>Solution</h2>
 
-<a href="https://scrimba.com/s06j5ju/s0i2ogl4be/head"></a>
+<a href="https://scrimba.com/s06j5ju/s0i2ogl4be/head">Day 08 - Seasonal Hangman</a>
 
 ![Screenshot 2025-05-01 145304](https://github.com/user-attachments/assets/68788f50-a703-4a4c-b92a-9fc843f236b1)
