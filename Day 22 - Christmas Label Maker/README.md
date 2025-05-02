@@ -6,12 +6,10 @@
   <li>Decorate the label with two festive icons from the icons folder. Use whatever colour scheme and layout you think looks good! </li>
 </ol>
 </p>
-<br>
 <p>
   Stretch Goals:
   <ol>
     <li>Ensure that the label does not get two of the same icon.</li>
-
     <li>Create your own CSS Christmas logo to add a personal touch to each label.</li>
   </ol>
 </p>
