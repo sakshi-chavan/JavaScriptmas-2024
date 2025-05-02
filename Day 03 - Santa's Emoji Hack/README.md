@@ -9,14 +9,14 @@ In other words, :angry: should result in 🎁 instead of 😠.
   <li>Write a function that checks if a lowercase word starts and 
 ends with a colon. If it does, check if it exists in the hackedEmojis object, 
 and replace it with the corresponding emoji. If not, return the original word.
-<br>
+
 Example input: ":cry:"
-Example output: ‍😄</li>
+<br>Example output: ‍😄</li>
   <li>Write a function to find any emoji shortcodes in a phrase.
 Use your emojify function from the previous exercise!
-
-Example input: "Just read your article :thumbsdown:"
-Example output: "Just read your article 👏"</li>
+    
+Example input: "Just read your article :thumbs-down:"
+<br>Example output: "Just read your article 👏"</li>
 </ol>
 </p>
 
