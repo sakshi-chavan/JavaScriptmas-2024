@@ -1,11 +1,14 @@
 <h2>Challenge</h2>
 <p>codedMessage.js holds a coded message (well, the name makes it obvious, huh?).
 <br>
-Task:<br>
+<br>
+Task:
+<br>
 Decode the message!
 <br>key.md will help!
 </p>
-<p>Stretch Goal:<br>
+<p>Stretch Goal:
+<br>
 No stretch goal for the final day. Just stretch your legs!</p>
 
 
