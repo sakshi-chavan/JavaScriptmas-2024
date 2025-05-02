@@ -3,8 +3,7 @@
   <br>
   Stretch Goals:
   <ol>
-    <li>Make the calendar more interactive;<br>
-      clicking each day could "open" that day.</li><br>
+    <li>Make the calendar more interactive. Clicking each day could "open" that day.</li><br>
     <li>Every day that is open displays a random Christmas gift or chocolate? in the box.</li><br>
     <li>Save the state of the calendar in LocalStorage.</li>
   </ol>
