@@ -1,13 +1,13 @@
 <h2>Challenge</h2>
 <p>
 Santa has been hacked! In the list of kids to deliver to, the Grinch has replaced some kids' names with his own name.
-The original array looked like this: 
+<br>The original array looked like this:<br>
 ['James', 'Yi', 'Florinda', 'Fatima', 'Tariq', 'Jose', 'Clare', 'Gibbs']
 </p>
-<p>Task: 
+<p>Task:<br>
 Remove 'Grinch' from santasArr and put the missing kids back in their original places!
 </p>
-<p>Stretch Goal:
+<p>Stretch Goal:<br>
   Do this without creating a new array and using no array methods other than .forEach().
 </p>
 
