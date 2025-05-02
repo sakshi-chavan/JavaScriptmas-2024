@@ -13,7 +13,6 @@
     <li>When all films in the array have been used, the player should see a message saying "That's all folks!".</li>
     <li>Each film should only be used once. There should be no repetition.</li>
   </ul>
-<br>
       Stretch Goals:
       <ul>
         <li>Use AI to decide if an answer is correct or incorrect. For example if the correct answer is "The Polar Express" but the player inputs "Polar Express" a straight comparison of the two strings will find that the player's answer was incorrect. AI could assess if there is sufficient similarity between the strings to judge it as correct.</li>
