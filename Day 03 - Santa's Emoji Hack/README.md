@@ -4,7 +4,6 @@ use negative emoji shortcodes, he wants positive emojis to appear instead.<br>
 <br>
 In other words, :angry: should result in 🎁 instead of 😠.
 </p>
-<br>
 <p>
 <ol>
   <li>Write a function that checks if a lowercase word starts and 
