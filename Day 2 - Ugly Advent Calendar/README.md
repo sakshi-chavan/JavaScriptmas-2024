@@ -1,5 +1,5 @@
 <h2>Challenge</h2>
-<p>Your Challenge is to improve the user experience of an advent calendar.
+<p>Your Challenge is to improve the user experience of an advent calendar.<br>
   <br>
   Stretch Goals:
   <ol>
