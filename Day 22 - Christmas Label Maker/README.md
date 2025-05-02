@@ -1,6 +1,5 @@
 <h2>Challenge</h2>
 <p>Writing out labels by hand is a real pain. Luckily, you are so organised that you have all of your contacts saved in an array.</p>
-<br>
 <p>But not all of your contacts are on your Christmas list. So your task is this:
 <ol>
   <li>Render a label for each entry in the address book, but only if isOnChistmasList is set to true! The label should contain the recipient's name and address.</li>
