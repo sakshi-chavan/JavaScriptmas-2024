@@ -27,7 +27,8 @@
 
 <br>
 <h2>Solution</h2>
-<a href="https://scrimba.com/s06j6fq/s0uuc43ef1/head">Day 12 - Hack Santa's Merch Store</a>
+<a href="https://scrimba.com/s06j6fq/s0uuc43ef1/head">Day 12 - Hack Santa's Merch Store</a><br>
+<br>
 
 ![Screenshot 2025-05-04 123112](https://github.com/user-attachments/assets/8e7c91e8-b938-42d7-bcf0-b4f707e893d7)
 
