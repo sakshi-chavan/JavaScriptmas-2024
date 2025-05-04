@@ -17,10 +17,15 @@
 <br>Fix the code so it's unhackable! 
 <br>
 <br>🔥Stretch Goals 👇 - these are only for really dedicated (ethical 😇) hackers to do BEFORE task 3 above.
-
 <br>Task 4
 <br>Hijack the Buy button so when it is clicked it calls a new function. The new function should log 'diverting payment to my account 💰'
 <br>
 <br>Task 5
 <br>Log out the credit card details.
 </p>
+
+<br>
+<h2>Solution</h2>
+<a href="https://scrimba.com/s06j6fq/s0uuc43ef1/head">Day 12 - Hack Santa's Merch Store</a>
+
+![Screenshot 2025-05-04 123112](https://github.com/user-attachments/assets/3aa5dd24-ca3a-453f-91c5-c3709d72ae5d)
